@@ -1,0 +1,11 @@
+🐞 BUG REPORT 02
+
+Título: Sistema permite finalizar compra com carrinho vazio
+Gravidade: Alta
+Passos para reproduzir:
+1. Acessar carrinho de compras
+2. Garantir que nenhum item esteja adicionado
+3. Clicar em "Finalizar Compra"
+
+Resultado Esperado: Sistema deve exibir uma mensagem de erro e impedir a ação.
+Resultado Obtido: Redireciona para tela de pagamento normalmente.

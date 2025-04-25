@@ -1,0 +1,11 @@
+🐞 BUG REPORT 01
+
+Título: Campo de e-mail aceita texto sem "@"
+Gravidade: Alta
+Passos para reproduzir:
+1. Acessar tela de cadastro
+2. Digitar "teste.com" no campo de e-mail
+3. Submeter o formulário
+
+Resultado Esperado: Sistema deve validar o campo e recusar o cadastro.
+Resultado Obtido: Cadastro é concluído normalmente.
