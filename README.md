@@ -35,3 +35,13 @@ Este projeto simula o processo de testes manuais em um sistema web fictício, co
 
 ## 📂 Estrutura
 
+📁 testes-manuais/ ├── casos_de_teste.md ├── checklist.xlsx └── bug_reports/ ├── bug_01.txt ├── bug_02.txt
+
+---
+
+## 🚀 Sobre mim
+
+Me chamo **Breno Brandão**, sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou me especializando em **Testes de Software** pela Unyleya. Estou em transição para a área de QA, e este é um dos meus projetos práticos.  
+📫 Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/breno0lliveira)
+
+
