@@ -35,7 +35,14 @@ Este projeto simula o processo de testes manuais em um sistema web fictício, co
 
 ## 📂 Estrutura
 
-📁 testes-manuais/ ├── casos_de_teste.md ├── checklist.xlsx └── bug_reports/ ├── bug_01.txt ├── bug_02.txt
+testes-manuais/
+├── bug_reports/
+│   ├── bug_01.txt
+│   └── bug_02.txt
+├── Checklist_Testes_Manuais_Breno.xlsx
+├── casos_de_teste.md
+└── README.md
+
 
 ---
 
